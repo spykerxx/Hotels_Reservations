@@ -27,6 +27,7 @@ A modern Android app for browsing and reserving hotels, built using **Kotlin**, 
 - **Retrofit** (with mock API endpoints or sample JSON)
 - **Hilt** for dependency injection
 - Jetpack DataStore (for local preferences)
+- Room Database (for storing favorite hotels)
 - **Coil** for image loading
 - **Coroutines / Flow** for asynchronous operations
 
