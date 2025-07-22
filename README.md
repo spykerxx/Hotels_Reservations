@@ -10,6 +10,9 @@ A modern Android app for browsing and reserving hotels, built using **Kotlin**, 
 
 - Search hotels by location or keyword
 - View hotel details including images, descriptions, and pricing
+- Mark hotels as favorites (locally stored).
+- Update and display user profile with locally saved profile image.
+- State persistence using DataStore.
 - Responsive UI built with Jetpack Compose
 - Navigation between screens with state preservation
 - Clean architecture following MVVM principles
@@ -23,6 +26,7 @@ A modern Android app for browsing and reserving hotels, built using **Kotlin**, 
 - **MVVM Architecture**
 - **Retrofit** (with mock API endpoints or sample JSON)
 - **Hilt** for dependency injection
+- Jetpack DataStore (for local preferences)
 - **Coil** for image loading
 - **Coroutines / Flow** for asynchronous operations
 
