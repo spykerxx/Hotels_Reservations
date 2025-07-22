@@ -15,6 +15,7 @@ A modern Android app for browsing and reserving hotels, built using **Kotlin**, 
 - State persistence using DataStore.
 - Responsive UI built with Jetpack Compose
 - Navigation between screens with state preservation
+- Light & Dark mode support.
 - Clean architecture following MVVM principles
 
 ---
@@ -28,6 +29,7 @@ A modern Android app for browsing and reserving hotels, built using **Kotlin**, 
 - **Hilt** for dependency injection
 - Jetpack DataStore (for local preferences)
 - Room Database (for storing favorite hotels)
+- Material Design 3 with dynamic dark mode support
 - **Coil** for image loading
 - **Coroutines / Flow** for asynchronous operations
 
