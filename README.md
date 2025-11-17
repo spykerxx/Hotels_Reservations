@@ -49,6 +49,9 @@ These can be installed on Android devices for testing purposes.
 
 App interface screenshots are included in the root project - screenshots directory to demonstrate functionality and design.
 
+<img width="1306" height="985" alt="Screenshot 2025-07-10 150855" src="https://github.com/user-attachments/assets/267ba73e-6cb4-48dd-ad18-3f12fbb39ba5" />
+
+
 ---
 
 ## 🚀 Getting Started
@@ -58,3 +61,6 @@ To run the project locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/spykerxx/Hotels_Reservations.git
+
+
+   
