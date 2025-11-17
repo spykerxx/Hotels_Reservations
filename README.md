@@ -51,6 +51,8 @@ App interface screenshots are included in the root project - screenshots directo
 
 <img width="479" height="932" alt="Screenshot 2025-07-21 145734" src="https://github.com/user-attachments/assets/c55c7bbf-d3cd-4681-9a0e-1b2b4010f119" />
 
+<img width="489" height="937" alt="Screenshot 2025-07-21 145603" src="https://github.com/user-attachments/assets/9afdc9b3-7e21-48fa-afba-16d38ffa1d6c" />
+
 <img width="485" height="932" alt="Screenshot 2025-07-21 145525" src="https://github.com/user-attachments/assets/5e4a75bf-0e2b-4fd6-ba23-e784a37ad7b5" />
 
 <img width="497" height="930" alt="Screenshot 2025-07-21 145550" src="https://github.com/user-attachments/assets/1c2d3100-0be2-46c5-9a4b-63633690dfd4" />
@@ -61,7 +63,9 @@ App interface screenshots are included in the root project - screenshots directo
 
 <img width="468" height="924" alt="Screenshot 2025-07-21 145659" src="https://github.com/user-attachments/assets/c75ac1e9-9f19-46b8-8060-4b520a59c73d" />
 
+<img width="316" height="623" alt="image" src="https://github.com/user-attachments/assets/29a2d675-4933-4fa0-99e2-902f62d6a079" />
 
+<img width="328" height="640" alt="image" src="https://github.com/user-attachments/assets/f5188ab8-b85c-409d-8453-7cefbd77b6ea" />
 
 
 ---
